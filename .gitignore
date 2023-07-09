@@ -1,2 +1,4 @@
 popup/
+test/
+web-ext-artifacts
 inject.js
