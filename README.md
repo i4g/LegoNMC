@@ -4,7 +4,7 @@
 
 #### Only doing ZIP for Chrome, I am not paying 5$ for this.
 
-#### Firefox version coming soon
+#### [Click here for Firefox version](https://addons.mozilla.org/fr/firefox/addon/legonmc/)
 
 # Download:
 
